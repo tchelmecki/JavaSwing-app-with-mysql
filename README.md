@@ -1,4 +1,4 @@
-# Text-app-with-mysql in Java Swing
+# Java Swing application with MySQL
 
 <div><b>Database</b> is working port 55555</div>
 <div><b>Database:</b> projekt.</div>
@@ -18,7 +18,7 @@
 <ul>
  <li>Java,</li>
 <li>Java Swing,</li>
-<li>MySQL.</li>
+<li>MySQL(MariaDB).</li>
 </ul>
 
 ![My Skills](https://skillicons.dev/icons?i=java,mysql)
